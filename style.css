@@ -5,7 +5,7 @@
 }
 
 body{
-    background: url('img/star.jpg');
+    background: url('star.jpg');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -181,4 +181,5 @@ body{
     100%{
         transform: rotate(360deg);
     }
+
 }
